@@ -1,0 +1,26 @@
+.digialsection{
+    width: 100%;
+    background-image: url(../../assets/img_background_solid.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 5%;
+    text-align: center;
+    color: white;
+    .head{
+        font-size: 2em;
+        color: rgb(204, 204, 204);
+        margin-bottom: 40px;
+    }
+    .maintext{
+        font-size: 2.5em;
+        color: white;
+        margin-bottom: 40px;
+        line-break:auto;
+    }
+    .secondtext{
+        font-size: 1.9em;
+        color: rgb(204, 204, 204);
+        margin-bottom: 40px;
+    }
+}
