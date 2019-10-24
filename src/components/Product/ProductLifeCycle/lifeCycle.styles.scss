@@ -1,0 +1,38 @@
+.discoverWrapper {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  margin: 0px auto;
+  max-width: 1260px;
+}
+
+@media (max-width: 1260px) {
+  .discoverWrapper {
+    padding: 0px 15px;
+  }
+}
+
+.lifeCycleHeader {
+  width: 100%;
+  background-color: #fff;
+  padding-top: 96px;
+  padding-bottom: 96px;
+  text-align: center;
+}
+.lifeCycleHeader h1 {
+  color: #005075;
+  font-weight: bold;
+  font-size: 48px;
+}
+.lifeCycleHeader p {
+  font-size: 22px;
+}
+.title {
+  font-size: xx-large;
+  font-weight: bold;
+  text-align: justify;
+}
+.feat {
+  text-align: justify;
+  margin-bottom: 0px;
+}
